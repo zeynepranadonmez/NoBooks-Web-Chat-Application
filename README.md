@@ -15,9 +15,11 @@ It is one of the first and most important criteria of software development.
 - The software language to be used, software architecture, server requirements, methods to be followed during the project process have been determined. the personnel division of labor was carried out and elements such as the distribution of project steps to the process were evaluated.
 - The needs and functions of the system were extracted in detail.
 - It was clearly determined what exactly was required of the software product that was to be developed.
-
 ### Design and Coding
-
+- The required modules were designed and their usefulness was analyzed.
+- It was aimed that the user could reach the desired page with a maximum of 3 clicks.
+- Care has been taken to ensure that the designs are simple and user-friendly designs.
+- Programming was carried out using the coding technique, which is simple, readable and easy to maintain.
 ### Test
 
 ### Maintenance
