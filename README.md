@@ -13,6 +13,8 @@ It is one of the first and most important criteria of software development.
 - The main modules required by the project were analyzed, the project objectives and objectives were detailed.
 - The benefits of the project for the user were evaluated.
 - The software language to be used, software architecture, server requirements, methods to be followed during the project process have been determined. the personnel division of labor was carried out and elements such as the distribution of project steps to the process were evaluated.
+- The needs and functions of the system were extracted in detail.
+- It was clearly determined what exactly was required of the software product that was to be developed.
 
 ### Design and Coding
 
