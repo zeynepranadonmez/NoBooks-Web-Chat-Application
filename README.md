@@ -7,3 +7,8 @@ NoBooks is a chat application developed for users to communicate with each other
 - Socket.IO
 - MongoDB
 ## The process of software development
+### Correctly Determining the Demands
+### Planning and Project Analysis
+### Design and Coding
+### Test
+### Maintenance
