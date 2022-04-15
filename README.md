@@ -1,2 +1,5 @@
 # NoBooks-Web-Chat-Application
-NoBooks, kullanıcıların birbirleriyle güvenli iletişim kurabilmeleri için geliştirilmiş chat uygulamasıdır. 
+NoBooks is a chat application developed for users to communicate with each other securely.
+## Technologies used
+- Node.JS
+- 
