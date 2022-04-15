@@ -21,5 +21,6 @@ It is one of the first and most important criteria of software development.
 - Care has been taken to ensure that the designs are simple and user-friendly designs.
 - Programming was carried out using the coding technique, which is simple, readable and easy to maintain.
 ### Test
-
+- Tests were carried out to determine whether the pre-determined requirements were met, whether they produced the correct output, or not.
+- Security tests were carried out and the openings in the system were closed.
 ### Maintenance
