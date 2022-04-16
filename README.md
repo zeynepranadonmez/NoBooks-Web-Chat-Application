@@ -26,4 +26,4 @@ It is one of the first and most important criteria of software development.
 ### Maintenance
 - After completing all the stages of software development and making it available to the user, this is the stage of updating failures or problems that will occur during the use of the project.
 - This cycle is very important for a healthy and long-term study.
-- The targeted situation is to ensure the uninterrupted and desired operation of the manufactured software.
+- The targeted situation is to ensure the uninterrupted and desired operation of the manufactured software. 
